@@ -15,4 +15,4 @@ and then import and update the submodules with
   git submodule init
   git submodule update
   ```
-`git submodule update --remote --merge` can be used to update the submodules to the latest commit.
+`git submodule update --remote --merge` can also be used to update the submodules to the latest commit.
